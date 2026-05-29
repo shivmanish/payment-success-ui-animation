@@ -48,3 +48,9 @@ flutter run
 ```
 
 Tested on Flutter 3.x. No platform-specific configuration required beyond the default Android/iOS scaffolding.
+
+## Release
+
+A signed APK and a screen-recording of the build are attached to the GitHub release:
+
+[github.com/shivmanish/payment-success-ui-animation/releases/tag/release](https://github.com/shivmanish/payment-success-ui-animation/releases/tag/release)
